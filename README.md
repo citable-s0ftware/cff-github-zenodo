@@ -1,2 +1,4 @@
 # cff-github-zenodo
-Demonstration of the Citation File Format integrations with GitHub and Zenodo
+
+Demonstrating the [Citation File Format](https://citation-file-format.github.io) integrations with GitHub and Zenodo.
+
